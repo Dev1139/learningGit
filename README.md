@@ -1,2 +1,2 @@
 # New project
-proect created from a local system
+project created from a local system
